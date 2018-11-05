@@ -18,6 +18,7 @@ printf ("\nPeso da nota 3:");
 	scanf ("%f",&p3);
 media=(n1*p1+n2*p2+n3*p3)/(p1+p2+p3);
 printf ("\nMedia=%.3f",media);
+
 getche();
 }
 
