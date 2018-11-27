@@ -6,7 +6,6 @@ main()
 float mediag1,mediag2;
 
 for (x=1;x<=10;x++)
-
 {
 
 	printf ("\nDigite sua nota da g1:");
