@@ -1,8 +1,9 @@
 # Ulbra-
 
-//pasta desenvolvida para trabalhos da faculdade
-
-Cadeiras Concluidas:
+//Pasta desenvolvida para trabalhos da faculdade
+//Algotirmos em C++ e Java
+    
+    Cadeiras Concluidas:
     Algoritmos e programação 1 e 2;
     Interface Homem Computador;
     Tecnologia de negócios na Internet; 
