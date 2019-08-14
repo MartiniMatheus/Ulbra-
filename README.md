@@ -1,7 +1,6 @@
 # Ulbra-
 
 //Pasta desenvolvida para trabalhos da faculdade
-//Algotirmos em C++ e Java
     
     Cadeiras Concluidas:
     Algoritmos e programação 1 e 2;
